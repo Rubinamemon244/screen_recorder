@@ -2,3 +2,4 @@ streamlit
 pyautogui
 opencv-python
 numpy
+mss
